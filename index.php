@@ -5,5 +5,9 @@ if(isset($_COOKIE["flavour"])){
 
     echo  "you are at ";
 }
-?>
 
+
+
+
+?>
+helolo 
